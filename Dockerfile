@@ -29,7 +29,7 @@ RUN ./configure && \
 RUN make && make install && make config && ldconfig
 
 COPY configs/ /etc/asterisk/
-#COPY configs/pjsip.d/* /etc/asterisk/pjsip.d/
+COPY configs/pjsip.d/* /etc/asterisk/pjsip.d/
 
 COPY startup.sh /root/startup.sh
 
