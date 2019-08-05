@@ -6,8 +6,11 @@ This is a really bare container, with the bare minimum config to get asterisk ru
 I am using this as the base for a callcenter project, building onto the image as required.
 
 ## Personal details
+
 Web: www.keithro.se
+
 Skype: kariba.keith
+
 Email: me(at)keithro(dot)se
 
 Please feel free to get in touch for any custom projects or help you might need.
